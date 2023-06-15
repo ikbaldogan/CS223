@@ -1,1 +1,1 @@
-# CS223
+# CS223 -Digital Design
